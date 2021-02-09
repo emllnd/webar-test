@@ -1,4 +1,0 @@
-## WebAR test
-
-test content
-
