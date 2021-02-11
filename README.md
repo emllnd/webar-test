@@ -6,3 +6,5 @@
 
 [Prepare image for tracking (NFT)](https://carnaux.github.io/NFT-Marker-Creator/)
 
+Recommended hosting environment for testing: [GitHub Pages](https://pages.github.com/) (but other webhost will also work).
+
