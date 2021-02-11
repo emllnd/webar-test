@@ -8,7 +8,7 @@
 
 This quick WebAR example uses AR.js for tracking images (could also track geolocation anchors) and [A-Frame](https://aframe.io/) as content technology. Other content option to use with AR.js would be THREE.js, but A-Frame is easier for getting started. For instructions and inspiration on what kind of things you can do, have a look here: [A-Frame documentation](https://aframe.io/docs/1.2.0/introduction/).
 
-Interesting code is in the file [index.html](https://github.com/emllnd/webar-test/blob/main/index.html).
+Interesting code is in the file [index.html](https://github.com/emllnd/webar-test/blob/main/index.html). Simplified, "less scary" version of index.html for getting started is [index-simple.html](https://github.com/emllnd/webar-test/blob/main/index-simple.html).
 
 Live demo: open the [T-Rex](https://github.com/emllnd/webar-test/blob/main/trex-image-big.jpeg) or [OLebre](https://github.com/emllnd/webar-test/blob/main/taberna_o_lebre.png) image on your computer/tablet and open the [webar-test](https://emllnd.github.io/webar-test/) page on your phone. Point the phone camera at the image and you should see a 3D chest/cube.
 
